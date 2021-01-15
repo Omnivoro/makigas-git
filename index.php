@@ -6,7 +6,7 @@
 </head>
 <body>
 	<div>
-		<h1><span class="blink">Bienvenido a MiEmpresa S.L.</span></h1>
+		<h1>Bienvenido a MiEmpresa S.L.</h1>
 		<p>
 			MiEmpresa S.L. es la empresa líder en el sector de la venta de jarrones chinos. Nuestros clients quedarán encantados con la calidad de los jarrones que importamos desde la mismísima China.
 		</p>
