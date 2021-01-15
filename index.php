@@ -2,10 +2,15 @@
 <head>
 	<link href="css/styles.css" rel="stylesheet" type="text/css">
 	<script src="js/javascript.js"></script>
-	<title>Bienvenido a la web de mi empresa</title>
+	<title>Bienvenido a MiEmpresa S.L.</title>
 </head>
 <body>
-	<h1>Esta es la web de mi empresa</h1>
-	<p>Estamos en contrucción. Vuelve pronto</p>
+	<div>
+		<h1>Bienvenido a MiEmpresa S.L.</h1>
+		<p>
+			MiEmpresa S.L. es la empresa líder en el sector de la venta de jarrones chinos. Nuestros clients quedarán encantados con la calidad de los jarrones que importamos desde la mismísima China.
+		</p>
+		<p>Estamos en contrucción. Perdón por las molestias, vuelvan pronto.</p>
+	</div>
 </body>
 </html>
