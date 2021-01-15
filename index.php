@@ -10,7 +10,7 @@
 		<p>
 			MiEmpresa S.L. es la empresa líder en el sector de la venta de jarrones chinos. Nuestros clients quedarán encantados con la calidad de los jarrones que importamos desde la mismísima China.
 		</p>
-		<p>Estamos en contrucción. Perdón por las molestias, vuelvan pronto.</p>
+		<p>Estamos en contrucción. Abrimos el 1 de Noviembre. Perdón por las molestias, vuelvan pronto.</p>
 	</div>
 </body>
 </html>
