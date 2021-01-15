@@ -6,5 +6,6 @@
 </head>
 <body>
 	<h1>Esta es la web de mi empresa</h1>
+	<p>Estamos en contrucción. Vuelve pronto</p>
 </body>
 </html>
